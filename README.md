@@ -176,8 +176,3 @@ After the Raspberry Pi reboots and the desktop loads, your Python script should 
     python3 hand_tool_monitor.py
     ```
 *   **Interaction:** Use the connected GPIO push buttons according to the `BUTTON_PINS` and `BUTTON_MEDIA_MAP` configuration to cycle through media or view the sensor display. Press `ESC` on a connected keyboard to exit the application.
-
-## License
-
-Please add a license file (e.g., MIT, GPLv3). For example:
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
